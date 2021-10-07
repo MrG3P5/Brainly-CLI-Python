@@ -7,3 +7,30 @@
 <p align="center">
 <a href="https://github.com/MrG3P5"><img title="Author" src="https://img.shields.io/badge/Author-X MrG3P5-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+### Install In TERMUX
+
+```bash
+> apt update && apt upgrade -y
+> pkg install python python2 python3 git -y
+> git clone https://github.com/MrG3P5/Brainly-CLI-Python
+> cd Brainly-CLI-Python
+> pip3 install -r requirements.txt
+> python3 main.py
+```
+
+### Install In Linux With Root
+
+```bash
+> sudo su
+> apt update && apt upgrade -y
+> apt install python python2 python3 git -y
+> git clone https://github.com/MrG3P5/Brainly-CLI-Python
+> cd Brainly-CLI-Python
+> pip3 install -r requirements.txt
+> python3 main.py
+```
+
+## Overview
+
+![Index] (https://b.top4top.io/p_2105iv54k0.png)
